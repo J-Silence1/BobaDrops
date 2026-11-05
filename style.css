@@ -1,0 +1,17 @@
+img {width: 200;
+}
+
+body{
+    font-family: Cambria;
+    text-align: center;
+    color: black;
+    font-weight: normal;
+    background-color: azure;
+
+#bobabutton{
+    background-color: cadetblue;
+    color: black;
+    font-weight: 200;
+    cursor: pointer;
+}
+}
